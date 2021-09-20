@@ -1,0 +1,39 @@
+.a{
+    color: red;
+    font-weight: bolder;
+    
+    
+}
+.b{ color: red;
+font-style: italic;
+}
+
+.overline{color: red;
+    text-decoration: line-through;
+ }
+ .bgcolor{
+     background: yellow;}
+ 
+.underline{text-decoration: underline;}
+.linespace{
+    line-height: 2;
+}
+.h2{
+    color: red;
+}
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(42, 165, 124);
+     letter-spacing: 3mm;
+}
+.prep{
+    background: yellow;
+
+
+  
+ color: red;
+    text-decoration: none;}
+
+.m{text-decoration: solid blue none;
+
+}
